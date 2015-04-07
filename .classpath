@@ -16,5 +16,6 @@
 	<classpathentry kind="lib" path="C:/New folder/struts2-jar/ognl-3.0.jar"/>
 	<classpathentry kind="lib" path="C:/New folder/struts2-jar/struts2-core-2.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/New folder/struts2-jar/xwork-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/apache-tomcat-7.0.42/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
